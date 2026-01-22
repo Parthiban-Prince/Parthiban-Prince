@@ -1,4 +1,4 @@
-# Hi 👋, I'm Parthiban R
+# Hi 👋, I'm Parthiban
 
 🎓 Computer Science Graduate | 🤖 AI & ML Learner | 📊 MBA (Finance) Student  | 📍 India
 
