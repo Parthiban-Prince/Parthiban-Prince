@@ -63,14 +63,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parthiban-Prince&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parthiban-Prince&layout=compact)
-
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/parthiban1809
