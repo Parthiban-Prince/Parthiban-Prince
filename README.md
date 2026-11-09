@@ -1,297 +1,115 @@
-# 👋 Hi, I'm Parthiban
+<div align="center">
 
-### 💻 Full-Stack Developer · 🤖 AI/ML Learner · 📊 MBA Finance Student
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · parthiban-prince</sub></p>
+<h1>Parthiban</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in India</sub></p>
+<p><a href="https://github.com/parthiban-prince">GitHub</a> &nbsp;·&nbsp; <a href="https://parthiban.me">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/81295901?u=73f3f630026e67eedf702b3395f37e23cc9d0554&amp;v=4" width="180" alt="Parthiban GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=parthiban-prince&label=Profile%20Views&style=flat" alt="Profile Views" />
+<h2>What teams can evaluate quickly</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · HTML · CSS</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>10 repositories · 2 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>148 contributions · 44 active days</p></td>
+</tr>
+</table>
+
+<p><sub>Building useful software and sharing the work in public.</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>10</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>148</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=parthiban-prince&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81295901%3Fu%3D73f3f630026e67eedf702b3395f37e23cc9d0554%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=parthiban-prince&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81295901%3Fu%3D73f3f630026e67eedf702b3395f37e23cc9d0554%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Parthiban GitHub proof metrics" />
+</picture>
 </p>
 
-🎓 **B.E. Computer Science Engineering — 2024**  
-📊 **MBA — Finance**  
-📍 **India**
+<h2>Selected work</h2>
 
-I’m a Computer Science graduate focused on **Full-Stack Development, Backend Engineering, Data Science, and Artificial Intelligence & Machine Learning**.
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=parthiban-prince&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81295901%3Fu%3D73f3f630026e67eedf702b3395f37e23cc9d0554%26v%3D4&repos=parthiban-prince%2FContent-Sharing-Platform%2Cparthiban-prince%2FE-Commerece%2Cparthiban-prince%2FLogin--Page%2Cparthiban-prince%2FContent-Sharing-Platform-Backend&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=parthiban-prince&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81295901%3Fu%3D73f3f630026e67eedf702b3395f37e23cc9d0554%26v%3D4&repos=parthiban-prince%2FContent-Sharing-Platform%2Cparthiban-prince%2FE-Commerece%2Cparthiban-prince%2FLogin--Page%2Cparthiban-prince%2FContent-Sharing-Platform-Backend&v=recruiter-projects-1&mode=dark" width="100%" alt="Parthiban selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Parthiban-Prince/Content-Sharing-Platform">Content-Sharing-Platform</a></h3>
+<p>This platform is a content-sharing app where users can sign up or log in, create and publish posts, like others' posts, and personalize their profiles</p>
+<p><sub>JavaScript · ⭐ 2 · 🍴 0</sub></p>
+<p><a href="https://github.com/Parthiban-Prince/Content-Sharing-Platform">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-I enjoy building practical applications, designing APIs, working with databases, and exploring how AI/ML can solve real-world business problems.
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/Parthiban-Prince/E-Commerece">E-Commerece</a></h3><p>A clean and responsive e-commerce website created using only HTML and CSS. The site features a homepage with a header, featured products section, and</p><p><sub>HTML · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Parthiban-Prince/Login--Page">Login--Page</a></h3><p>A static, centered login form using HTML and CSS with fields for email and password, styled with basic layout and no responsiveness</p><p><sub>CSS · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Parthiban-Prince/Content-Sharing-Platform-Backend">Content-Sharing-Platform-Backend</a></h3><p>The backend is built to handle user authentication (sign-up/login with secure password hashing), session management, and media uploads (profile photos</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
----
+<h2>Technical toolkit</h2>
 
-## 🚀 What I Do
-
-**Frontend** → React, HTML, CSS, JavaScript  
-**Backend** → Node.js, Express.js, REST APIs  
-**Databases** → MongoDB, PostgreSQL, SQL  
-**Programming** → JavaScript, Python, SQL  
-**AI / ML** → Python, NumPy, Pandas, Scikit-learn  
-**Tools** → Git, GitHub, VS Code, Postman  
-**Media / Cloud** → Cloudinary
-
----
-
-# 🛠️ Tech Stack
-
-## 💻 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python" />
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=parthiban-prince&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81295901%3Fu%3D73f3f630026e67eedf702b3395f37e23cc9d0554%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=parthiban-prince&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81295901%3Fu%3D73f3f630026e67eedf702b3395f37e23cc9d0554%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Parthiban technology stack" />
+</picture>
 </p>
 
-`JavaScript` · `Python` · `SQL`
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>70% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>25% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>5% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>0% of public code</sub></td>
+<td width="20%" align="center"><strong>Dockerfile</strong><br /><sub>0% of public code</sub></td>
+</tr>
+</table>
 
-## 🌐 Frontend
+<h2>Consistency signal</h2>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=parthiban-prince&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81295901%3Fu%3D73f3f630026e67eedf702b3395f37e23cc9d0554%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=parthiban-prince&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81295901%3Fu%3D73f3f630026e67eedf702b3395f37e23cc9d0554%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Parthiban contribution activity" />
+</picture>
 </p>
 
-`HTML` · `CSS` · `JavaScript` · `React` · `Tailwind CSS` · `Vite`
-
-## ⚙️ Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-`Node.js` · `Express.js` · `REST APIs` · `JWT` · `Authentication`
-
-## 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis" />
-</p>
-
-`MongoDB` · `PostgreSQL` · `MySQL` · `SQL` · `Redis`
-
-## 🤖 AI / Machine Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch" />
-</p>
-
-`Python` · `NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn` · `TensorFlow` · `PyTorch`
-
-## 🧰 Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
-</p>
-
-`Git` · `GitHub` · `VS Code` · `Postman` · `Docker` · `Cloudinary`
-
----
-
-# 📌 Featured Projects
-
-## 🔹 Content Sharing Platform
-
-A full-stack social content platform where users can create, upload, manage, and share content.
-
-### Features
-
-- 🔐 Authentication & Authorization
-- 👤 User Profiles
-- 📝 Content Creation
-- 🖼️ Image & Video Uploads
-- ☁️ Cloudinary Media Storage
-- 🛡️ Role-Based Access
-- ❤️ Content Interactions
-- 💬 Social Features
-- 🔌 REST API Architecture
-
-**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `Cloudinary`
-
----
-
-## 🔹 Tournament Management Backend
-
-A RESTful backend system for managing tournaments, teams, matches, and scores.
-
-### Features
-
-- 🔐 JWT Authentication
-- 👥 Team Registration
-- 🏆 Tournament Creation
-- 📅 Match Management
-- 📊 Score Tracking
-- 🔑 Protected Routes
-- 🔌 RESTful APIs
-- 🗄️ PostgreSQL Database
-
-**Tech Stack:** `Node.js` `Express.js` `PostgreSQL` `JWT`
-
----
-
-# 🤖 AI / ML Journey
-
-Currently building my foundation toward becoming a **Full-Stack AI/ML Engineer**.
-
-### Learning Path
-
-**Python** → **NumPy** → **Pandas** → **Data Visualization** → **Statistics & Probability** → **Machine Learning** → **Scikit-learn** → **Model Evaluation** → **Deep Learning** → **TensorFlow / PyTorch** → **Generative AI** → **AI-Powered Applications**
-
----
-
-# 🧠 Machine Learning
-
-### Supervised Learning
-
-- Linear Regression
-- Logistic Regression
-- Decision Trees
-- Random Forest
-- K-Nearest Neighbors
-- Support Vector Machines
-
-### Unsupervised Learning
-
-- K-Means Clustering
-- Hierarchical Clustering
-- Dimensionality Reduction
-- PCA
-
-### ML Engineering
-
-- Data Preprocessing
-- Feature Engineering
-- Feature Scaling
-- Encoding
-- Train/Test Split
-- Cross Validation
-- Hyperparameter Tuning
-- Model Evaluation
-- Model Deployment
-
----
-
-# 📊 Data Science
-
-- NumPy
-- Pandas
-- Data Cleaning
-- Exploratory Data Analysis
-- Data Visualization
-- Statistics
-- Probability
-- Mean
-- Median
-- Mode
-- Variance
-- Standard Deviation
-- Normal Distribution
-- Correlation
-- Covariance
-- Linear Regression
-
----
-
-# 💻 Full-Stack Engineering
-
-**HTML** → **CSS** → **JavaScript** → **React** → **Tailwind CSS** → **Node.js** → **Express.js** → **REST APIs** → **Authentication** → **MongoDB** → **PostgreSQL** → **Redis** → **Docker** → **Cloud Deployment** → **System Design** → **AI/ML Integration**
-
----
-
-# 🎯 Current Focus
-
-### 💻 Full-Stack Development
-
-`JavaScript` · `React` · `Node.js` · `Express.js` · `REST APIs` · `PostgreSQL` · `MongoDB`
-
-### 🤖 AI / ML
-
-`Python` · `NumPy` · `Pandas` · `Statistics` · `Scikit-learn` · `Machine Learning`
-
-### 🏗️ Software Engineering
-
-`Git` · `GitHub` · `API Design` · `Authentication` · `Databases` · `Deployment`
-
-### ☁️ Deployment
-
-`Docker` · `Cloud` · `CI/CD` · `Production Applications`
-
----
-
-# 💡 Areas of Interest
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 💻 Full-Stack Development
-- 🔌 Backend Engineering
-- 📊 Data Science
-- 📈 Data-Driven Applications
-- 💰 FinTech
-- 🚀 SaaS Products
-- ☁️ Cloud & Deployment
-- 🏗️ Software Architecture
-- 🔐 API Security
-- ⚡ Scalable Applications
-
----
-
-# 🏗️ Current Projects
-
-| Project | Technology | Status |
-|---|---|---|
-| 🤖 AI/ML Projects | Python · Scikit-learn | 🟡 Learning |
-| 💻 Full-Stack Applications | React · Node.js | 🟢 Active |
-| 🔌 Backend APIs | Node.js · Express | 🟢 Active |
-| 📊 Data Projects | Python · Pandas | 🟡 Learning |
-| 💰 FinTech Ideas | Full Stack · AI/ML | 🟡 Exploring |
-
----
-
-# 📚 Learning Philosophy
-
-> **Learn → Build → Break → Debug → Improve → Repeat**
-
-I believe the best way to learn technology is by building real projects, solving problems, debugging continuously, and improving through hands-on experience.
-
----
-
-# 📈 2026 Goals
-
-- [ ] Become a strong Full-Stack Developer
-- [ ] Build production-ready applications
-- [ ] Master PostgreSQL & MongoDB
-- [ ] Learn Redis
-- [ ] Learn Docker
-- [ ] Strengthen Data Structures & Algorithms
-- [ ] Master Machine Learning fundamentals
-- [ ] Build real-world AI/ML projects
-- [ ] Integrate AI into full-stack applications
-- [ ] Learn Deep Learning
-- [ ] Build AI-powered SaaS products
-- [ ] Contribute to Open Source
-- [ ] Build a strong developer portfolio
-
----
-
-# 📫 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/parthiban-prince">
-    <img src="https://img.shields.io/badge/GitHub-parthiban--prince-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/parthiban1809">
-    <img src="https://img.shields.io/badge/LinkedIn-Parthiban-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:Parthibanprince143@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-# ⚡ Developer Mindset
-
-**Build things that solve problems.**  
-**Learn technologies by using them.**  
-**Write clean and maintainable code.**  
-**Understand the fundamentals.**  
-**Keep experimenting.**  
-**Keep improving.**
-
----
-
-### 💻 Building Software · 🤖 Exploring AI · 📊 Understanding Business
-
-**Thanks for visiting my profile! ⭐**
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/parthiban-prince">GitHub</a><br /><a href="https://parthiban.me">Website</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Parthiban · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
